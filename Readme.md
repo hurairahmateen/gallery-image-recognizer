@@ -1,5 +1,7 @@
 # Gallery Image Recognizer
 
+React Native based Gallery Image Recognizer Application.
+
 ## Getting Started
 
 - Run `npm i` to install packages
