@@ -1,4 +1,4 @@
-# Gallery Image Organizer
+# Gallery Image Recognizer
 
 ## Getting Started
 
